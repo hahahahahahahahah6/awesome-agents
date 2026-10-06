@@ -14,6 +14,9 @@ A curated list of tools for building and running AI agents safely.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — NVIDIA's toolkit 
   for adding programmable guardrails to LLM-based apps.
 
+- [agent-guard](https://github.com/hahahahahahahahah6/agent-guard) — Behavior-guardrail
+  hooks for Claude Code that block test-tampering, destructive shell commands, and
+  secret exfiltration. Python stdlib only, MIT licensed.
 ## MCP Frameworks & Dev Tools
 
 - [FastMCP](https://github.com/jlowin/fastmcp) — Fast, Pythonic way to build 
